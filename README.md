@@ -1,2 +1,1 @@
-# scalable-vector-graphics
-scalable-vector-graphics
+# canvas-practice
