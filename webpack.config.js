@@ -59,6 +59,6 @@ module.exports = {
     alias: {
       "@": path.resolve(__dirname, "src"),
     },
-    extensions: [".js", ".ts", ".tsx"],
+    extensions: [".js", ".ts", ".tsx", ".less"],
   },
 };
