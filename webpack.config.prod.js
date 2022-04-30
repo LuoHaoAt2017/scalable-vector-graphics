@@ -5,6 +5,6 @@ module.exports = merge(config, {
   mode: "production",
   devtool: "source-map",
   performance: {
-    hints: true
+    hints: false
   }
 });
